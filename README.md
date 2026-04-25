@@ -1,6 +1,6 @@
 # TestPilot — Java
 
-A complete Java port of the **ExecutionAgent**: an autonomous AI agent that sets up, builds, and runs test suites for software projects inside Docker containers. It analyzes project requirements, generates Dockerfiles, and executes build/test commands using an LLM.
+A complete Java port of the **TestPilot**: an autonomous AI agent that sets up, builds, and runs test suites for software projects inside Docker containers. It analyzes project requirements, generates Dockerfiles, and executes build/test commands using an LLM.
 
 > Functionally identical to the Python version. Same tools, same prompts, same retry logic, same output structure.
 
