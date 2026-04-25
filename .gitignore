@@ -1,0 +1,9 @@
+.DS_Store
+.gradle/
+build/
+target/
+execution_agent_workspace/
+.claude/
+*.class
+*.jar
+!build/libs/execution-agent-1.0.0.jar
